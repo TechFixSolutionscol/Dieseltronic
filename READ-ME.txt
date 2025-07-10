@@ -1,6 +1,6 @@
-  =>  Template Name    : DRYME - Laundry Service Website Template
+  =>  Template Name    : FASTER - Logistics Company Website Template
 
-  =>  Template Link    : https://htmlcodex.com/laundry-service-website-template
+  =>  Template Link    : https://htmlcodex.com/logistics-company-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
